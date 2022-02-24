@@ -1,0 +1,140 @@
+/* @import url("https://fonts.googleapis.com/css?family=Open+Sans"); */
+/* @import url("https://fonts.googleapis.com/css?family=Montserrat"); */
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+
+/* Category Ads */
+
+#ads .card-notify-badge {
+    position: absolute;
+    left: -10px;
+    top: -20px;
+    background: #f2d900;
+    text-align: center;
+    border-radius: 30px 30px 30px 30px;
+    color: #000;
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+#ads .card-notify-year {
+    position: absolute;
+    right: -10px;
+    top: -20px;
+    background: #ff4444;
+    border-radius: 50%;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    width: 50px;
+    height: 50px;
+    padding: 15px 0 0 0;
+}
+
+#ads .card-detail-badge {
+    background: #f2d900;
+    text-align: center;
+    border-radius: 30px 30px 30px 30px;
+    color: #000;
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+#ads .card:hover {
+    background: #fff;
+    box-shadow: 12px 15px 20px 0px rgba(46, 61, 73, 0.15);
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+#ads .card-image-overlay {
+    font-size: 20px;
+}
+
+#ads .card-image-overlay span {
+    display: inline-block;
+}
+/* 
+#ads .ad-btn {
+    border: none;
+    outline: 0;
+    color: white;
+    background-color: #28ca2f;
+    text-align: center;
+    cursor: pointer;
+    width: "5rem";
+    font-size: 19px;
+    border-radius: 2rem;
+} 
+*/
+
+#ads .ad-title h5 {
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    width: 17rem;
+}
+
+
+/* Category Filter css*/
+
+.wrapper {
+    background: #28ca2f;
+    width: 14rem;
+    border-radius: 1rem;
+    height: 2rem;
+}
+
+.toggle_radio {
+    position: relative;
+    background: rgba(255, 255, 255, 0.1);
+    overflow: hidden;
+    padding: 0 !important;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    position: relative;
+    height: 30px;
+    width: 14rem;
+}
+
+.toggle_radio>* {
+    float: left;
+}
+
+.toggle_radio input[type="radio"] {
+    display: none;
+    /*position: fixed;*/
+}
+
+.toggle_radio label {
+    font: 18px "Source Sans Pro";
+    color: rgba(255, 255, 255, 0.9);
+    z-index: 0;
+    display: block;
+    width: 100px;
+    height: 23px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    cursor: pointer;
+    z-index: 1;
+    text-align: center;
+    margin-top: 4px;
+    /*margin: 0 2px;*/
+    /*background: blue;*/
+    /*make it blue*/
+}
+
+.toggle_radio label:hover {
+    color: rgb(242, 217, 0);
+}

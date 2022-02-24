@@ -1,0 +1,29 @@
+{
+  "user": {
+    "name": "Salman Ahmed",
+    "password": "123456",
+    "email": "salman@gmail.com",
+    "mobile": 9987952528,
+    "dob": "2018-2-14"
+  },
+  "address": {
+    "address": "175D Arafatr Mansion, Madanpur",
+    "locality": " Morland Road",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400008"
+  },
+  "product": {
+    "name": "Watermelon Seeds",
+    "amount": 750,
+    "min_order": 25,
+    "quantity": 6000,
+    "location": "Punjab",
+    "scale": "kg"
+  },
+  "usrprd":{
+    "userId": 1,
+    "productId": 1
+  }
+
+}

@@ -1,0 +1,38 @@
+ {  
+    "productType":"Tractor",
+      "productName":"New Holland 3630 Tx Special Editionो)",
+      "price":"500",
+      "productSize":"50 HP",
+      "productDosage":"500 ml/Heac",
+      "targetplant":"maize",
+      "description":"Mechanically Actuated Oil Immersed Multi Disc Brakes."
+      }
+
+           {  
+    "productType":"Tractor",
+      "productName":"Kubota NeoStar B2741 4WD",
+      "price":"50",
+      "productSize":"27 HP",
+      "productDosage":"500 ",
+      "targetplant":"maize",
+      "description":" 9 Forward + 3 Reverse  Oil Immersed Brakes."
+      }
+           {  
+    "productType":"Tractor",
+      "productName":"Pesticide 2 In 1 Sprayer",
+      "price":"500",
+      "productSize":"102 HP",
+      "productDosage":"500 ",
+      "targetplant":"maize",
+      "description":"	Combination of Dry & Wet Type  Air Cleaner"
+      }
+
+           {  
+    "productType":"Pesticides Machine",
+      "productName":"Preet 987 Harvestor",
+      "price":"500",
+      "productSize":"18 litere",
+      "productDosage":"4",
+      "targetplant":"maize",
+      "description":"Sprayer 2 in 1"
+      }

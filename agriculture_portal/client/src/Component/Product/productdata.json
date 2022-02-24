@@ -1,0 +1,62 @@
+{
+    "productType": "Seed",
+    "productName": "Pocha Seed",
+    "price": "90",
+    "productSize": "250 gm",
+    "productDosage": "1.3kg/Heac",
+    "targetplant": "Maize",
+    "description": "High Quality Seed , High Production"
+} {
+    "productType": "Seed",
+    "productName": "ALYSSUM PROCUMBENS ROYAL",
+    "price": "90",
+    "productSize": "500 gm",
+    "productDosage": "0.700Gm /Heac",
+    "targetplant": "Flower",
+    "description": "Non-Hybrid, Open Pollinated And Non-GMO"
+} {
+    "productType": "Seed",
+    "productName": "APPLE GOURD SEEDS",
+    "price": "55",
+    "productSize": "100 gm",
+    "productDosage": "0.700Gm /Heac",
+    "targetplant": "Apple",
+    "description": "Skin Surface Hairy, Heavy YieldingO"
+} {
+    "productType": "Seed",
+    "productName": "LETTUCE LOLLO BIONDA SEEDS",
+    "price": "110",
+    "productSize": "190 gm",
+    "productDosage": "0.890Gm/Heac",
+    "targetplant": "Binoda",
+    "description": " Compact Head With Loose Frilly Leaves"
+}
+
+{
+    "productType": "Pesticides",
+    "productName": "ABACIN (अबेसिन)",
+    "price": "110",
+    "productSize": "100 ml",
+    "productDosage": "150 ml/Heac",
+    "targetplant": "Maize",
+    "description": " Chloride Channel Activator"
+} {
+    "productType": "Pesticides",
+    "productName": "ANTRACOL)",
+    "price": "110",
+    "productSize": "100 ml",
+    "productDosage": "150 ml/Heac",
+    "targetplant": "Rice",
+    "description": " Chloride Channel Activator"
+}
+
+{
+    "productType": "Pesticides",
+    "productName": "NATIVO (नॅटिवो)",
+    "price": "500",
+    "productSize": "100 ml",
+    "productDosage": "500 ml/Heac",
+    "targetplant": "maize",
+    "description": "fungicide containing Tebuconazole and Trifloxystrobin."
+}
+492959 ee42f94fc4b74874cc4d943ebb

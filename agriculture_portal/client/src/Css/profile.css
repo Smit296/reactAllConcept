@@ -1,0 +1,65 @@
+.green{
+  margin: 3px;
+  border: 2px solid #b0f313;
+}
+
+.black{
+  border: 2px solid #000000;
+}
+
+.profile-img{
+  max-width: 300px;
+  min-width: 100px;
+}
+
+.box4{
+  min-width: 300px;
+  max-width: 400.33px;
+}
+@media only screen and (max-width: 400px) {
+  .box4{
+      min-width: 220px;
+  }
+}
+.btn-1{
+  min-width: 70px;
+}
+.btn-2{
+  min-width: 110px;
+}
+
+.content{
+  max-width: 550px;
+  width: 100%;
+}
+
+.content1{
+  max-width: 650px;
+  width: 100%;
+}
+
+.profile-type-btn{
+  max-width: 227px;
+  width: 100%;
+}
+
+.cart-btn{
+  min-width: 133px;
+}
+
+@media only screen and (max-width: 1000px) {
+  .cart-box{
+    margin: 0 !important;
+  }
+}
+
+.dropdown-menu a{
+  color: #111111 !important;
+ }
+ .dropdown-menu a:hover{
+  background: #FFFFFF!important;
+  color: #2bd11c !important;
+  /* -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;  */
+ }

@@ -1,0 +1,123 @@
+.styl_box1 {
+    background: rgba(0, 0, 0, 0.25) url("https://us.123rf.com/450wm/pramotephotostock/pramotephotostock1706/pramotephotostock170600016/80857177-farmers-grow-rice-in-the-rainy-season-they-were-soaked-with-water-and-mud-to-be-prepared-for-plantin.jpg?ver=6");
+    background-size: cover;
+    margin: 0 auto;
+    padding: 0;
+    background-blend-mode: overlay;
+    max-width: 400px;
+    width: 100%;
+    border-radius: 2rem;
+}
+
+.single_analize__block1 {
+    color: #ffffff;
+    padding: 40px 25px;
+    box-shadow: 0px -5px 9px rgba(0, 0, 0, 0.25);
+}
+
+.background {
+    background: rgba(0, 0, 0, 0.5) url("./../Image/farmerbg.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-size: cover;
+    background-blend-mode: overlay;
+    width: 100%;
+    margin-top: -2rem;
+}
+
+.btn-text {
+    font-size: 14px;
+    color: #fff;
+    font-family: "Raleway", sans-serif;
+    line-height: 41px;
+    border: 2px solid #28ca2f;
+    padding: 0 22px;
+    border-radius: 0px;
+    display: inline-block;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background: #28ca2f;
+    height: 44px;
+    text-align: center;
+}
+
+.boxhome1 {
+    margin-top: 2rem;
+}
+
+@media only screen and (max-width: 1000px) {
+    .boxhome {
+        margin-top: 20px;
+    }
+    .carousel {
+        height: 160px;
+    }
+}
+
+@media only screen and (max-width: px) {
+    .boxhome {
+        margin-top: 20px;
+    }
+    .carousel {
+        height: 160px;
+    }
+}
+
+
+/* 
+.Blog {
+    width: 85rem;
+    margin-top: 25px;
+} */
+
+.blog {
+    min-width: 90px;
+}
+
+.btn-second {
+    min-width: 150px;
+    margin: 0 5px;
+    font-size: 14px;
+    color: #fff;
+    font-family: "Raleway", sans-serif;
+    line-height: 41px;
+    border: 2px solid #28ca2f;
+    padding: 0 22px;
+    border-radius: 30px;
+    display: inline-block;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background: #28ca2f;
+    height: 44px;
+    text-align: center;
+}
+
+.service {
+    width: 20rem;
+    height: 15rem;
+}
+
+
+/*.Blog{
+border-radius: 25px;
+background: #95ea99;
+box-shadow: inset 5px 5px 10px #6ba86e, 
+            inset -5px -5px 10px #bfffc4;
+} */
+
+.servicemerge {
+    margin-right: -63px;
+}
+
+.blogcard:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px 0 rgba(177, 181, 175, 0.78), 0 6px 20px 0 rgba(12, 46, 4, 0.8);
+    /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+.styl_box1:hover {
+    transform: scale(1.07);
+    /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}

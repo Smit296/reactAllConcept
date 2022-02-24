@@ -1,0 +1,34 @@
+.loginfull {
+    background: rgba(0, 0, 0, 0.5) url("./../Image/farmerbg.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-size: cover;
+    background-blend-mode: overlay;
+    width: 100vw;
+    position: relative;
+    height: 40vw;
+}
+
+.card1 {
+    width: 30rem;
+    height: 480px;
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    margin-left: 7rem;
+}
+
+.card-header h3 {
+    color: white;
+}
+
+input:focus {
+    outline: 0 0 0 0 !important;
+    box-shadow: 0 0 0 0 !important;
+}
+
+.login_btn {
+    color: black;
+    background-color: #28ca2f;
+    width: 100px;
+}
